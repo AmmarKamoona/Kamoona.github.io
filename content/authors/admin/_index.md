@@ -58,8 +58,8 @@ education:
   - area: PhD Machine Learning and Computer Vision
     institution: Royal Melbourne Institute of Technology
     date_start: 2018-07-22
-    date_end: 2022-06-31
-    summary: |
+    date_end: 2018-07-22
+    summary: 
       Thesis Anomaly detection in machine vision applications. Supervised by [Prof Reza Hosenizhad](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/h/hoseinnezhad-professor-reza). Presented papers at 2 IEEE conferences with the contributions being published in 2 Q1 journals.
     button:
       text: 'Read Thesis'

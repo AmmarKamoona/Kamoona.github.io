@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Machine Learning engineer (Postdoctoral Researcher)
+role: Machine Learning Engineer (Postdoctoral Fellow)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:

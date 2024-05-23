@@ -3,11 +3,11 @@
 title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Ammar Kamoona
+name_pronunciation: Ammar Mansoor Kamoona
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ammar
+last_name: Kamoona
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Machine Learning engineer (Postdoctoral Researcher)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Royal Melbourne Institute of Technology
+    url: https://www.rmit.edu.au/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -48,25 +48,28 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learing
+  - Computer vision
+  - Electric Vechicle intergration into the grid
+  - Electrification of Everythings 
+  - Applications of AI into Manufacuting industry
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Machine Learning and Computer Vision
+    institution: Royal Melbourne Institute of Technology
+    date_start: 2018-07-22
+    date_end: 2022-06-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis Anomaly detection in machine vision applications. Supervised by [Prof Reza Hosenizhad](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/h/hoseinnezhad-professor-reza). Presented papers at 2 IEEE conferences with the contributions being published in 2 Q1 journals.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: https://researchrepository.rmit.edu.au/esploro/outputs/9922125956901341'
+  - area: MS.c Electrical and Electronic Engineering
+    institution: Swinburne University of Technology
+    date_start: 2014-07-30
+    date_end: 2016-06-30
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.5/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -183,4 +186,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ammar Kamoona is a Postdoctor Reseacher of artificial intelligence at the RMIT EV living Lab. His research interests include anomaly detection in machine vision, multiobjective optimization, machine learning and its application to EV integration to the grid, AI applications of battery management systems, AI application to power grid, and random finite statistics.

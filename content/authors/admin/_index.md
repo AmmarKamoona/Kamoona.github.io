@@ -3,7 +3,7 @@
 title: Dr Ammar Kamoona
 
 # Name pronunciation (optional)
-name_pronunciation: Ammar Mansoor Kamoona
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Ammar
@@ -33,10 +33,10 @@ profiles:
   - icon: at-symbol
     url: 'ammarkamooona.2012@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  #- icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
+  #- icon: brands/instagram
+  #  url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/AmmarKamoona
   - icon: brands/linkedin
@@ -48,11 +48,11 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Machine Learing
-  - Computer vision
-  - Electric Vechicle intergration into the grid
-  - Electrification of Everythings 
-  - Applications of AI into Manufacuting industry
+  - Machine Learning
+  - Computer Vision
+  - Electric Vechicle Intergration into the Grid
+  - Applications of AI into Electrification of Everythings 
+  - Applications of AI into Manufacuting Industry
 
 education:
   - area: PhD Machine Learning and Computer Vision
@@ -75,23 +75,23 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+  #- area: BSc Electrical Engineering
+  #  institution: Massachusetts Institute of Technology
+  #  date_start: 2016-01-01
+  #  date_end: 2020-12-31
+  #  summary: |
+  #    GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    Courses included:
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Machine Learning Engineer 
+    company_name: RMIT (EV living Lap)
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-02-21
     date_end: ''
     summary: |2-
       Responsibilities include:
